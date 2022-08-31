@@ -1,5 +1,8 @@
 # test_stacked
 
+[Git Patch Stack Book](https://book.git-ps.sh/)
+[How we should be using Git](https://drewdeponte.com/blog/how-we-should-be-using-git/)
+
 ```
 gps ls
 gps status
