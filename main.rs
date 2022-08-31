@@ -9,3 +9,7 @@ fn foo() {
 fn bar() {
     println!("Bar");
 }
+
+fn baz() {
+    println!("Baz");
+}
