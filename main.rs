@@ -18,9 +18,4 @@ fn baz() {
     println!("Baz");
 }
 
-// test Hamazaki
-//
-//
-// test koiwai
-//
-// branch dev_ito
+// from dev_ito
