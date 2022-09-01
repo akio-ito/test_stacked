@@ -22,3 +22,5 @@ fn baz() {
 //
 //
 // test koiwai
+//
+// test from branch develog
