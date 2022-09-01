@@ -12,6 +12,8 @@ fn bar() {
     println!("Bar");
 }
 
+// test 2
+//
 fn baz() {
     println!("Baz");
 }
