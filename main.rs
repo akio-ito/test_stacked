@@ -19,3 +19,6 @@ fn baz() {
 }
 
 // test Hamazaki
+//
+//
+// test koiwai
