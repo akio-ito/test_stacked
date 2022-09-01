@@ -15,3 +15,5 @@ fn bar() {
 fn baz() {
     println!("Baz");
 }
+
+// test Hamazaki
